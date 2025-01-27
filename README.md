@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/eab6d981a51740d9b02d2e8a24d8fc82">
-      <p>Library | Loom - 26 January 2025 - Watch Video</p>
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/eab6d981a51740d9b02d2e8a24d8fc82-2b9e901ec1a0c28b-full-play.gif">
     </a>
   </div>
