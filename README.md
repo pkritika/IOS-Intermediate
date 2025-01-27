@@ -25,7 +25,12 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/eab6d981a51740d9b02d2e8a24d8fc82?sid=636bcb02-969f-47d8-b3ea-762cf60fd586" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/eab6d981a51740d9b02d2e8a24d8fc82">
+      <p>Library | Loom - 26 January 2025 - Watch Video</p>
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/eab6d981a51740d9b02d2e8a24d8fc82-2b9e901ec1a0c28b-full-play.gif">
+    </a>
+  </div>
 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
